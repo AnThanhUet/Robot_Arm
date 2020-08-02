@@ -1,0 +1,10 @@
+C:\Users\AnThanh\Desktop\update\ArmRobot_AnThanh\ArmRobot_AnThanh\bin\Debug\ArmRobot_AnThanh.exe.config
+C:\Users\AnThanh\Desktop\update\ArmRobot_AnThanh\ArmRobot_AnThanh\bin\Debug\ArmRobot_AnThanh.exe
+C:\Users\AnThanh\Desktop\update\ArmRobot_AnThanh\ArmRobot_AnThanh\bin\Debug\ArmRobot_AnThanh.pdb
+C:\Users\AnThanh\Desktop\update\ArmRobot_AnThanh\ArmRobot_AnThanh\obj\Debug\ArmRobot_AnThanh.csprojAssemblyReference.cache
+C:\Users\AnThanh\Desktop\update\ArmRobot_AnThanh\ArmRobot_AnThanh\obj\Debug\ArmRobot_AnThanh.Form1.resources
+C:\Users\AnThanh\Desktop\update\ArmRobot_AnThanh\ArmRobot_AnThanh\obj\Debug\ArmRobot_AnThanh.Properties.Resources.resources
+C:\Users\AnThanh\Desktop\update\ArmRobot_AnThanh\ArmRobot_AnThanh\obj\Debug\ArmRobot_AnThanh.csproj.GenerateResource.cache
+C:\Users\AnThanh\Desktop\update\ArmRobot_AnThanh\ArmRobot_AnThanh\obj\Debug\ArmRobot_AnThanh.csproj.CoreCompileInputs.cache
+C:\Users\AnThanh\Desktop\update\ArmRobot_AnThanh\ArmRobot_AnThanh\obj\Debug\ArmRobot_AnThanh.exe
+C:\Users\AnThanh\Desktop\update\ArmRobot_AnThanh\ArmRobot_AnThanh\obj\Debug\ArmRobot_AnThanh.pdb
