@@ -1,4 +1,5 @@
 # Three degree of freedom robot arm
+
 Apply your knowledge about:
   - Arduino
   - C# winform
@@ -6,12 +7,12 @@ Project provide
   - Graphical interface on the window 
   - Code for the arduino board
   
-# Description
+* Description
   Via the software on the computer to control the robot arm: 
     - via USB 
     - Bluetooth
-# Robot has 2 modes of operation:
+* Robot has 2 modes of operation:
   - Manually 
   - Automatically
   
-Recorded progress mode automatically at m
+Note: Recorded progress mode automatically at manually
