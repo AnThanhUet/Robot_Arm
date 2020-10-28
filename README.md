@@ -1,9 +1,9 @@
 # Three degree of freedom robot arm
 
-  Apply your knowledge about:
+Apply your knowledge about:
     - Arduino
     - C# winform
-  Project provide
+Project provide
     - Graphical interface on the window 
     - Code for the arduino board
   
